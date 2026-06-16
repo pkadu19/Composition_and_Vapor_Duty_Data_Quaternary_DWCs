@@ -1,4 +1,4 @@
-# Dataset: Multicomponent Distillation Configuration Comparison
+# Dataset: DWCs with Single Condenser and Single Reboiler for Quaternary Separations
 
 ## Description
 Data supporting the article: Synthesis and Performance Analysis of Dividing Wall Distillation Columns. 1. Advancing Beyond the Kaibel Column in Quaternary Separations with One Reboiler and One Condenser, Separations and Purification Technology, 2026.
