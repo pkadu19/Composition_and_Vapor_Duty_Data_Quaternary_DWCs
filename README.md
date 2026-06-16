@@ -7,7 +7,7 @@ Data supporting the article: Synthesis and Performance Analysis of Dividing Wall
 - `Supplementary_Data.xlsx`: This file has a total of nice sheets, each named after the relative volatility case data it contains. A total of 2500 composition cases are solved using our own DISTOPT software. The vapor duty for each composition and relative-volatility case for the configurations, including Kaibel, satellite derivatives 1, 2, and 3, and the FTC arrangement, is provided in the subsequent columns. 
 
 ## How to Cite
-See the Zenodo DOI badge below.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20724392.svg)](https://doi.org/10.5281/zenodo.20724392)
 
 ## Authors
 - Parikshit S. Kadu¹
